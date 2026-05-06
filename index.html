@@ -1,231 +1,235 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
-  
-<style>
-body{
-  margin:0;
-  font-family: Arial, sans-serif;
-  background:#0d0d0d;
-  color:white;
-}
-.hero h1 {
-  margin-bottom: 5px;
-}
 
-.hero p {
-  margin-top: 0;
-}
-/* HEADER */
-.header{
-  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
-  padding:15px;
-  text-align:center;
-  font-weight:bold;
-  font-size:18px;
-  position:sticky;
-  top:0;
-  z-index:1000;
-  
-}
-
-/* CONTENIDO */
-.container{
-  padding:20px;
-  text-align:center;
-}
-
-/* TARJETAS */
-.card{
-  background:#1a1a1a;
-  margin:15px 0;
-  padding:20px;
-  border-radius:15px;
-  border-left:5px solid #d4af37;
-  box-shadow:0 4px 10px rgba(0,0,0,0.5);
-}
-
-/* IMÁGENES Y VIDEO */
-.media{
-  margin-top:15px;
-}
-.media img, .media iframe{
-  width:100%;
-  max-width:400px;
-  border-radius:15px;
-  margin-top:10px;
-}
-
-/* BOTONES */
-.btn{
-  display:block;
-  background: linear-gradient(90deg,#ff4da6,#d4af37);
-  color:black;
-  padding:12px;
-  margin:10px 0;
-  border-radius:10px;
-  text-decoration:none;
-  font-weight:bold;
-}
-
-/* NAV INFERIOR */
-.bottom-nav{
-  position:fixed;
-  bottom:0;
-  width:100%;
-  background:#111;
-  display:flex;
-  justify-content:space-around;
-  padding:10px 0;
-  border-top:2px solid #d4af37;
-}
-
-.bottom-nav a{
-  color:#ff4da6;
-  text-decoration:none;
-  font-size:13px;
-  text-align:center;
-}
-
-/* ESPACIO */
-.space{
-  height:70px;
-}
-</style>
-</head>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+<title>Mi experiencia escolar</title>
 
 <style>
+
+/* GENERAL */
+*{
+box-sizing:border-box;
+margin:0;
+padding:0;
+}
+
 body{
-  margin:0;
-  font-family: Arial, sans-serif;
-  background:#0d0d0d;
-  color:white;
-}
-.hero h1 {
-  margin-bottom: 5px;
+font-family:Arial, sans-serif;
+background:linear-gradient(to bottom,#e6f0ff,#f0e6ff);
+color:#333;
 }
 
-.hero p {
-  margin-top: 0;
-}
-/* HEADER */
-.header{
-  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
-  padding:15px;
-  text-align:center;
-  font-weight:bold;
-  font-size:18px;
-  position:sticky;
-  top:0;
-  z-index:1000;
-  
+/* TITULO PRINCIPAL */
+.titulo{
+background:#6c63ff;
+text-align:center;
+padding:15px;
+color:white;
 }
 
-/* CONTENIDO */
-.container{
-  padding:20px;
-  text-align:center;
+.titulo h1{
+font-size:24px;
+margin-bottom:5px;
 }
 
-/* TARJETAS */
-.card{
-  background:#1a1a1a;
-  margin:15px 0;
-  padding:20px;
-  border-radius:15px;
-  border-left:5px solid #d4af37;
-  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+/* LOGO */
+.logo{
+width:60px;
+display:block;
+margin:10px auto 0 auto;
 }
 
-/* IMÁGENES Y VIDEO */
-.media{
-  margin-top:15px;
-}
-.media img, .media iframe{
-  width:100%;
-  max-width:400px;
-  border-radius:15px;
-  margin-top:10px;
+/* BUSCADOR */
+.buscador{
+text-align:center;
+padding:15px;
+background:#a0c4ff;
 }
 
-/* BOTONES */
-.btn{
-  display:block;
-  background: linear-gradient(90deg,#ff4da6,#d4af37);
-  color:black;
-  padding:12px;
-  margin:10px 0;
-  border-radius:10px;
-  text-decoration:none;
-  font-weight:bold;
+.buscador input{
+width:70%;
+max-width:300px;
+padding:10px;
+border:none;
+border-radius:10px 0 0 10px;
+outline:none;
 }
 
-/* NAV INFERIOR */
-.bottom-nav{
-  position:fixed;
-  bottom:0;
-  width:100%;
-  background:#111;
-  display:flex;
-  justify-content:space-around;
-  padding:10px 0;
-  border-top:2px solid #d4af37;
+.buscador button{
+padding:10px;
+border:none;
+background:#4b47c5;
+color:white;
+border-radius:0 10px 10px 0;
+cursor:pointer;
 }
 
-.bottom-nav a{
-  color:#ff4da6;
-  text-decoration:none;
-  font-size:13px;
-  text-align:center;
+/* MENU */
+nav{
+background:white;
+box-shadow:0 2px 8px rgba(0,0,0,0.1);
 }
 
-/* ESPACIO */
-.space{
-  height:70px;
+nav ul{
+list-style:none;
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
 }
+
+nav ul li a{
+display:block;
+padding:15px;
+text-decoration:none;
+color:#4a3f55;
+font-weight:bold;
+}
+
+nav ul li a:hover{
+background:#f0e6ff;
+}
+
+/* PORTADA */
+.portada{
+position:relative;
+width:100%;
+height:70vh;
+overflow:hidden;
+}
+
+.portada img{
+width:100%;
+height:100%;
+object-fit:cover;
+}
+
+/* TEXTO SOBRE IMAGEN */
+.texto{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+background:rgba(0,0,0,0.4);
+padding:20px;
+border-radius:15px;
+color:white;
+text-align:center;
+}
+
+.texto h1{
+font-size:24px;
+}
+
+/* RESPONSIVE */
+@media (max-width:768px){
+
+.portada{
+height:55vh;
+}
+
+.texto h1{
+font-size:20px;
+}
+
+nav ul{
+flex-direction:column;
+align-items:center;
+}
+
+}
+
+@media (max-width:480px){
+
+.titulo h1{
+font-size:18px;
+}
+
+.portada{
+height:45vh;
+}
+
+.texto h1{
+font-size:18px;
+}
+
+.buscador input{
+width:60%;
+}
+
+.logo{
+width:50px;
+}
+
+}
+
 </style>
+
+<script>
+function buscar(){
+let texto = document.getElementById("busqueda").value.toLowerCase();
+
+if(texto.includes("abandono")){
+window.location.href="menu1.html";
+}
+else if(texto.includes("consecuencias")){
+window.location.href="menu2.html";
+}
+else if(texto.includes("permanencia")){
+window.location.href="menu3.html";
+}
+else if(texto.includes("prevencion")){
+window.location.href="menu4.html";
+}
+else if(texto.includes("familia")){
+window.location.href="menu5.html";
+}
+else if(texto.includes("recursos")){
+window.location.href="menu6.html";
+}
+else{
+alert("No se encontró la información");
+}
+}
+</script>
+
 </head>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>5. El papel de la familia y la escuela </title>
-</head>
+
 <body>
-  <!-- CONTENIDO -->
 
-<div class="container">
-  <img src="BecaAbandono2.jpg" width= "350" heigth="350" alt="Plantel">
+<!-- TITULO + LOGO -->
+<div class="titulo">
+<h1>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</h1>
+<img src="logo.jpeg" class="logo">
 </div>
-<p align="justify">
-<h1> Movimiento contra el Abandono Escolar. Yo No Abandono</h1>
-<p>El movimiento "Yo No Abandono" es una de las estrategias e iniciativas de política pública más ambiciosas implementadas en México (coordinada por la Secretaría de Educación Pública, SEP) para hacer frente a la deserción escolar, especialmente en el nivel medio superior. A diferencia de otros programas, este movimiento se concibió como una estrategia integral y comunitaria que involucra no solo a las autoridades, sino a directores, docentes, padres de familia y a los propios estudiantes.</p>
-<p>Primero, utiliza Sistemas de Alerta Temprana para detectar alumnos en riesgo mediante el monitoreo de inasistencias y reprobación. Segundo, provee manuales con protocolos de intervención inmediata para directivos y docentes. Tercero, ofrece tutorías académicas y orientación socioemocional personalizada para regularizar a los estudiantes rezagados. Cuarto, establece canales de comunicación obligatorios para asegurar la corresponsabilidad de los padres de familia. Quinto, vincula prioritariamente a los jóvenes con becas de retención económica para evitar que abandonen la escuela por motivos laborales.</p>
 
-  <h1> Beca “Contra el abandono escolar” para estudiantes de bachillerato </h1>
-<p> La Beca "Contra el Abandono Escolar" funciona como un estímulo económico diseñado específicamente para estudiantes de bachillerato en escuelas públicas que se encuentran en una situación de vulnerabilidad que pone en riesgo su permanencia en las aulas.</p> 
+<!-- BUSCADOR -->
+<div class="buscador">
+<input type="text" id="busqueda" placeholder="Buscar...">
+<button onclick="buscar()">Buscar</button>
+</div>
 
-<p> Su objetivo principal es frenar la deserción escolar de manera inmediata, garantizando que el factor económico no sea un impedimento para que los jóvenes concluyan la educación media superior. A diferencia de otros apoyos generales, este programa opera mediante la identificación directa por parte de las autoridades de cada plantel, quienes detectan a los alumnos en riesgo a través de los sistemas de alerta temprana y gestionan el beneficio con rapidez. Los recursos se entregan de forma periódica directamente al estudiante durante el ciclo escolar, aliviando la presión financiera del hogar y permitiéndole concentrarse exclusivamente en su trayecto académico.
-</p> 
-</p>
-    <h3>MOTIVACION</h3>
-  <div class="media">
-      <iframe height="220" src="https://www.youtube.com/embed/JCYHW4ApvBs?si=vimofAYvZfhsR3B-"></iframe>
-  </div>
-      <!-- BOTONES -->
-<a href="Influye.html" class="btn">POR QUE OCURRE</a>
-<a href="Consecuencias.html" class="btn">CONSECUENCIAS DEL ABANDONO</a>
-<a href="Estrategias.html" class="btn">PREVENIR EL ABANDONO</a>
-<a href="Familia.html" class="btn">EL PAPEL DE LA FAMILIA</a>
-<a href="Abandono.html" class="btn">APOYO DISPONIBLE</a>
+<!-- MENU -->
+<nav>
+<ul>
+<li><a href="menu1.html">Abandono</a></li>
+<li><a href="menu2.html">Consecuencias</a></li>
+<li><a href="menu3.html">Permanencia</a></li>
+<li><a href="menu4.html">Prevención</a></li>
+<li><a href="menu5.html">Familia</a></li>
+<li><a href="menu6.html">Recursos</a></li>
+</ul>
+</nav>
+
+<!-- PORTADA -->
+<div class="portada">
+
+<img src="princi.jpeg" alt="imagen principal">
+
+
+</div>
+
 </body>
 </html>
