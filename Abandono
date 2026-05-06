@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+  
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>5. El papel de la familia y la escuela </title>
+</head>
+<body>
+  <!-- CONTENIDO -->
+
+<div class="container">
+  <img src="recursos.jpg" width= "350" heigth="350" alt="Plantel">
+</div>
+<p align="justify">
+<h1> Movimiento contra el Abandono Escolar. Yo No Abandono</h1>
+<p>El movimiento "Yo No Abandono" es una de las estrategias e iniciativas de política pública más ambiciosas implementadas en México (coordinada por la Secretaría de Educación Pública, SEP) para hacer frente a la deserción escolar, especialmente en el nivel medio superior. A diferencia de otros programas, este movimiento se concibió como una estrategia integral y comunitaria que involucra no solo a las autoridades, sino a directores, docentes, padres de familia y a los propios estudiantes.</p>
+<p>Primero, utiliza Sistemas de Alerta Temprana para detectar alumnos en riesgo mediante el monitoreo de inasistencias y reprobación. Segundo, provee manuales con protocolos de intervención inmediata para directivos y docentes. Tercero, ofrece tutorías académicas y orientación socioemocional personalizada para regularizar a los estudiantes rezagados. Cuarto, establece canales de comunicación obligatorios para asegurar la corresponsabilidad de los padres de familia. Quinto, vincula prioritariamente a los jóvenes con becas de retención económica para evitar que abandonen la escuela por motivos laborales.</p>
+
+  <h1> Beca “Contra el abandono escolar” para estudiantes de bachillerato </h1>
+<p>Muchos estudiantes abandonan sus estudios de bachillerato por falta de recursos económicos,
+  por ello, la Secretaría de Educación Pública pone a su disposición la Beca “Contra el abandono escolar”, 
+  con el propósito de apoyarlos en la continuidad de su trayecto educativo.</p> 
+
+<p> Desde el primer ciclo de operación de esta beca (2013-2014) a la fecha (2016-2017) se han otorgado alrededor de 951 
+  mil becas, lo que ha permitido que cada vez más alumnos continúen sus estudios de educación media superior.</p> 
+
+<p> En virtud de que 60 por ciento de las y los estudiantes que abandonan sus estudios de bachillerato
+  lo hacen en el primer año y, sobre todo, en los primeros tres meses, la convocatoria para esta beca es 
+  permanente y los recursos que otorga permiten a los beneficiarios cubrir requerimientos básicos.
+  El monto de esta beca oscila entre 650 y 875 pesos, dependiendo del  grado escolar y sexo de las y los estudiantes.
+</p> 
+</p>
+    <h3>MOTIVACION</h3>
+  <div class="media">
+      <iframe height="220" src="https://www.youtube.com/embed/JCYHW4ApvBs?si=vimofAYvZfhsR3B-"></iframe>
+  </div>
+      <!-- BOTONES -->
+<a href="PORQUEE.html" class="btn">CAUSAS DEL ABANDONO ESCOLAR</a>
+<a href="CONSECUENCIAS.html" class="btn">CONSECUENCIA</a>
+<a href="#" class="btn">TALLERES</a>
+<a href="PREVENIR.html" class="btn">PREVENIR EL ABANDONO</a>
+  <a href="FAMILIA.html" class="btn"> EL PAPEL DE LA FAMILIA</a>
+<a href="RECURSOS.html" class="btn">APOYO DISPONIBLE</a>
+</body>
+</html>
