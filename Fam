@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>5. El papel de la familia y la escuela </title>
+</head>
+<body>
+  <!-- CONTENIDO -->
+
+<div class="container">
+  <img src="FAMILIA.jpg" width= "350" heigth="350" alt="Plantel">
+<p align="justify">
+<h1> El papel de la familia y la escuela </h1>
+<p>El papel de la familia es uno de los factores más determinantes en el éxito educativo de los estudiantes.</p>
+
+<p>​1. Rendimiento Académico y Motivación
+​Expectorativas altas: Cuando los padres valoran la educación, los hijos desarrollan una mayor motivación intrínseca y compromiso con sus tareas.
+​Refuerzo en el hogar: El acompañamiento en el estudio y la creación de hábitos diarios consolidan los conocimientos adquiridos en el aula.</p>
+
+<p>​2. Desarrollo Socioemocional
+​Autoestima y seguridad: Un entorno familiar afectivo brinda la estabilidad emocional necesaria para afrontar los desafíos escolares y el miedo al fracaso.
+​Habilidades sociales: La empatía, el respeto y la resolución de conflictos se aprenden primero en casa y se replican con profesores y compañeros.</p>
+
+<p>​3. Conducta y Adaptación Escolar
+​Límites y normas: La consistencia en las reglas familiares facilita la aceptación de las normas de convivencia del centro educativo.
+​Reducción del ausentismo: Las familias involucradas supervisan de cerca la asistencia y muestran menor tolerancia a la deserción.</p>
+  
+ <h1> ¿Qué pueden hacer las familias?</h1>
+
+ <p> Dejar los estudios sin haber acabado la educación postobligatoria es una mala decisión que tratamos de evitar
+   con varias iniciativas. Estas son fruto de la investigación sobre los factores que causan el abandono y sobre qué es lo
+   que funciona en educación. La iniciativa de formar a las familias para animar sus hijos e hijas que están acabando 
+   la ESO a seguir estudiando es la forma más íntima y capilar de trabajar por la continuidad educativa. </p> 
+
+
+ <p>Los puntos de vista y visiones de los adultos más próximos pueden fomentar la continuidad hacia estudios 
+   postobligatorios o al contrario, decantar al adolescente a optar por dejar de estudiar </p> 
+
+
+ <h1>¿Las familias, agentes contra el abandono escolar?</h1>
+
+ <p> Los valores y criterios de los familiares que conviven y cuidan a los chicos y chicas pueden tener
+   un efecto más claro en la orientación de sus decisiones que los de otros adultos de referencia, 
+   por la sencilla razón qué tienen vínculos más fuertes. </p> 
+
+ <p> Es por eso que, en materia de toma de decisiones sobre la continuidad escolar, las convicciones y las expectativas
+   de los padres y madres cuentan, y mucho. Los puntos de vista y visiones de los adultos más próximos pueden fomentar 
+   la continuidad hacia estudios postobligatorios o al contrario, decantar al adolescente a optar por dejar de estudiar. </p> 
+
+ <p> Es importante que las familias sean bien conscientes del valor de continuar estudiando y muestren esta preferencia
+   ante sus hijos e hijas para promover su continuidad educativa después de la educación obligatoria. </p> 
+</p>
+   <h3>LA FAMILIA</h3>
+  <div class="media">
+      <iframe height="220" src="https://www.youtube.com/embed/pq2SqC7MdLo?si=ZcXCApxsw5p2vgXX"></iframe>
+  </div>
+      <!-- BOTONES -->
+<a href="PORQUEE.html" class="btn">CAUSAS DEL ABANDONO ESCOLAR</a>
+<a href="CONSECUENCIAS.html" class="btn">CONSECUENCIA</a>
+<a href="#" class="btn">TALLERES</a>
+<a href="PREVENIR.html" class="btn">PREVENIR EL ABANDONO</a>
+  <a href="FAMILIA.html" class="btn"> EL PAPEL DE LA FAMILIA</a>
+<a href="RECURSOS.html" class="btn">APOYO DISPONIBLE</a>
+</body>
+</html>
