@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+  
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>CONSECUENCIAS DEL ABANDONO ESCOLAR.</title>
+</head>
+<body>
+
+  <!-- CONTENIDO -->
+
+<div class="container">
+  <img src="Consecuencias.jpg" width= "350" heigth="350" alt="Plantel">
+  
+
+<h1>CONSECUENCIAS DEL ABANDONO ESCOLAR.</h1>
+ <p align="justify">
+<p class="pags">
+<p>Las consecuencias del abandono escolar afectan tanto a nivel individual como colectivo,
+  y pueden ser de largo alcance.</p>
+
+<p>1. Perpetuación de la pobreza: Se genera un círculo vicioso intergeneracional. Los padres que abandonaron la escuela suelen tener menos recursos para apoyar la educación formal de sus hijos, repitiendo el patrón.</p>
+<p>2. Baja autoestima y frustración: El abandono suele ir acompañado de una sensación de fracaso personal, falta de confianza en las propias habilidades y desesperanza respecto al futuro.</p>
+<p>3. Mayor riesgo de involucrarse en actividades delictivas: Los jóvenes que abandonan la escuela están en mayor riesgo de involucrarse en comportamientos antisociales o actividades delictivas, especialmente en contextos de pobreza y falta de oportunidades.</p>
+  </p>
+ </p>
+  <div class="card">
+
+  <!-- VIDEO -->
+<div class="card">
+<!-- VIDEO -->
+<div class="card">
+  <h3>CONSECUENCIAS</h3>
+  <div class="media">
+      <iframe height="220" src="https://www.youtube.com/embed/MsgFzGwOgsI?si=xiUr_l3gPDg96hle"></iframe>
+  </div>
+</div>
+</div>
+    <!-- BOTONES -->
+<a href="PORQUEE.html" class="btn">CAUSAS DEL ABANDONO ESCOLAR</a>
+<a href="CONSECUENCIAS.html" class="btn">CONSECUENCIA</a>
+<a href="TESTIMONIOS.html" class="btn">TALLERES</a>
+<a href="PREVENIR.html" class="btn">PREVENIR EL ABANDONO</a>
+  <a href="FAMILIA.html" class="btn"> EL PAPEL DE LA FAMILIA</a>
+<a href="RECURSOS.html" class="btn">APOYO DISPONIBLE</a>
+</body>
+</html>
