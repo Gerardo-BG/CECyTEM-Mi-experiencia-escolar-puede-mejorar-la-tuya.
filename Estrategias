@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+  
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>5. El papel de la familia y la escuela </title>
+</head>
+<body>
+  <!-- CONTENIDO -->
+
+<div class="container">
+  <img src="prevenir.jpg" width= "350" heigth="350" alt="Plantel">
+<p align="justify">
+<h1> Estrategias de prevención del abandono escolar </h1>
+<p>
+Intervención temprana</p>
+<p>Identificar y abordar las señales de advertencia tempranas puede marcar una gran diferencia.
+Implementar programas de detención y apoyo para estudiantes en riesgos, como tutorías individuales, 
+mentorías y asesoramiento académico y emocional.</p>
+
+<p>Métodos de enseñanza innovadores</p>
+<p>Es clave crear un ambiente seguro y sano para la educación,
+y utilizar métodos creativos para mantener la motivación y participación de los alumnos.</p>
+
+<p>Programas extracurriculares y actividades motivadoras</p>
+<p>Ofrecer actividades como deportes, arte, música u otras similares es importante para que los estudiantes
+exploren sus intereses y talentos fuera del ámbito académico ya que puede generar sentido de pertenencia y 
+conexión con la escuela.</p>
+
+<p>Orientación vocacional y apoyo postsecundario</p>
+<p>Proporcionar orientación vocacional y exploración de carreras desde etapas tempranas,
+brindando a los estudiantes información sobre las diferentes opciones educativas y laborales disponibles.
+Ofrecer apoyo y recursos para facilitar la transición exitosa de la escuela secundaria a la educación postsecundaria
+o al empleo.</p>
+
+<p>Para prevenir el abandono escolar, es esencial adoptar un enfoque integral que involucre a la comunidad educativa, 
+los padres y las instituciones gubernamentales.</p>
+
+<p>Recordemos que la educación es un derecho fundamental de todos los niños y jóvenes, 
+  y debemos trabajar juntos para asegurar que todos tengan la oportunidad de recibir una educación de calidad y 
+  completar su formación académica.</p>
+ 
+</p>
+      <!-- BOTONES -->
+<a href="PORQUEE.html" class="btn">CAUSAS DEL ABANDONO ESCOLAR</a>
+<a href="CONSECUENCIAS.html" class="btn">CONSECUENCIA</a>
+<a href="#" class="btn">TALLERES</a>
+<a href="PREVENIR.html" class="btn">PREVENIR EL ABANDONO</a>
+  <a href="FAMILIA.html" class="btn"> EL PAPEL DE LA FAMILIA</a>
+<a href="RECURSOS.html" class="btn">APOYO DISPONIBLE</a>
+</body>
+</html>
