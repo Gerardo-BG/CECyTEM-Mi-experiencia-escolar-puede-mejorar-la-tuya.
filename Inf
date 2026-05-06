@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MI EXPERIENCIA ESCOLAR PUEDE MEJORAR LA TUYA</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0d0d0d;
+  color:white;
+}
+.hero h1 {
+  margin-bottom: 5px;
+}
+
+.hero p {
+  margin-top: 0;
+}
+/* HEADER */
+.header{
+  background: linear-gradient(90deg,#000,#d4af37,#ff4da6);
+  padding:15px;
+  text-align:center;
+  font-weight:bold;
+  font-size:18px;
+  position:sticky;
+  top:0;
+  z-index:1000;
+  
+}
+
+/* CONTENIDO */
+.container{
+  padding:20px;
+  text-align:center;
+}
+
+/* TARJETAS */
+.card{
+  background:#1a1a1a;
+  margin:15px 0;
+  padding:20px;
+  border-radius:15px;
+  border-left:5px solid #d4af37;
+  box-shadow:0 4px 10px rgba(0,0,0,0.5);
+}
+
+/* IMÁGENES Y VIDEO */
+.media{
+  margin-top:15px;
+}
+.media img, .media iframe{
+  width:100%;
+  max-width:400px;
+  border-radius:15px;
+  margin-top:10px;
+}
+
+/* BOTONES */
+.btn{
+  display:block;
+  background: linear-gradient(90deg,#ff4da6,#d4af37);
+  color:black;
+  padding:12px;
+  margin:10px 0;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* NAV INFERIOR */
+.bottom-nav{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+  display:flex;
+  justify-content:space-around;
+  padding:10px 0;
+  border-top:2px solid #d4af37;
+}
+
+.bottom-nav a{
+  color:#ff4da6;
+  text-decoration:none;
+  font-size:13px;
+  text-align:center;
+}
+
+/* ESPACIO */
+.space{
+  height:70px;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>POR QUE OCURRE EL ABANDONO ESCOLAR</title>
+</head>
+<body>
+
+  <!-- CONTENIDO -->
+
+<div class="container">
+  <img src="PORQUE.jpg" width= "350" heigth="350" alt="Plantel">
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>1.¿PORQUE OCURRE EL ABANDONO ESCOLAR? </title>
+</head>
+<body>
+
+<p align="justify">
+<h1>CAUSAS:</h1>
+<p>Existen diversas causas que pueden llevar a un estudiante a abandonar la escuela,
+y muchas veces estas razones están interrelacionadas. Las más comunes incluyen:</p>
+
+<p>1. Factores socioeconómicos: La falta de recursos económicos es una de las principales causas del abandono escolar. En familias con dificultades económicas, los jóvenes se ven obligados a trabajar para ayudar en el sustento del hogar, lo que impide que continúen con sus estudios.</p>
+
+<p>2. Bajo rendimiento académico: Las dificultades de aprendizaje o un bajo rendimiento académico sostenido pueden desmotivar a los estudiantes. Muchos jóvenes que enfrentan estos problemas sienten que no pueden avanzar y optan por dejar la escuela.</p>
+
+<p>3. Problemas familiares: La desintegración familiar, la violencia en el hogar, o el abandono emocional por parte de los padres o tutores impactan negativamente el bienestar emocional y académico del estudiante, llevándolo a desertar.</p>
+
+<p>4. Falta de interés y motivación: Algunos estudiantes no encuentran sentido o relevancia en los contenidos que se enseñan en las escuelas, lo que puede disminuir su interés por continuar asistiendo. Esto se ve agravado cuando las escuelas no adaptan sus métodos educativos para ser más atractivos y dinámicos.</p>
+
+<p>5. Embarazo adolescente: En muchas comunidades, el embarazo en jóvenes es una de las principales razones por las que las estudiantes dejan de asistir a clases, ya que enfrentan barreras para continuar con sus estudios mientras cuidan de sus hijos.</p>
+
+<p>6. Acceso limitado a la educación: En zonas rurales o marginadas, la falta de infraestructura educativa o la distancia de los centros educativos pueden ser un factor importante que promueve el abandono escolar.</p>
+</p>
+    <!-- BOTONES -->
+<a href="PORQUEE.html" class="btn">CAUSAS DEL ABANDONO ESCOLAR</a>
+<a href="CONSECUENCIAS.html" class="btn">CONSECUENCIA</a>
+<a href="#" class="btn">TALLERES</a>
+<a href="PREVENIR.html" class="btn">PREVENIR EL ABANDONO</a>
+  <a href="FAMILIA.html" class="btn"> EL PAPEL DE LA FAMILIA</a>
+<a href="RECURSOS.html" class="btn">APOYO DISPONIBLE</a>
+</body>
+</html>
